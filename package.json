@@ -1,5 +1,5 @@
 {
-  "name": "@hawk-swap/eslint-config-hawk",
+  "name": "@hawk-protocol/eslint-config-hawk",
   "version": "1.0.0",
   "description": "Eslint config for Hawk",
   "main": "lib/index.js",
